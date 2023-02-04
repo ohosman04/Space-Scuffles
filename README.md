@@ -9,3 +9,6 @@ Controls:
   
   
  Thank you for reading this, and enjoy the game! :)
+
+
+UPDATE 1.0: Fixed Bullet Mechanics
