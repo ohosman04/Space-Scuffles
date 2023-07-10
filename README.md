@@ -1,4 +1,6 @@
-Hello, this is Omar! This game is my first on Pygame, I do hope you enjoy it! There are some points I'd like to briefly discuss before you proceed to try it, so please bare with me here!
+Hello, this is Omar! 
+
+This game is my first on Pygame, I do hope you enjoy it! There are some points I'd like to briefly discuss before you proceed to try it, so please bare with me here!
 
 
 Controls:
@@ -8,7 +10,7 @@ Controls:
   
   
   
- Thank you for reading this, and enjoy the game! :)
+Thank you for reading this, and enjoy the game! :)
 
 
 UPDATE 1.0: Fixed Bullet Mechanics
