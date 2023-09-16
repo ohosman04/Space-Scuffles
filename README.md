@@ -1,16 +1,28 @@
-Hello, this is Omar! 
+##Welcome to Space Scuffles
 
-This game is my first on Pygame, I do hope you enjoy it! There are some points I'd like to briefly discuss before you proceed to try it, so please bare with me here!
+Dear Players,
+
+Welcome to Space Scuffles, a captivating gaming experience developed using Pygame! I hope you find this game enjoyable and engaging. Before diving into the game, let's go over some essential controls and game modes for a seamless gaming experience.
+
+##Controls:
+  Confrontation Mode:
+
+     Yellow Ship: Move using WASD, shoot with LCTRL.
+     Red Ship: Move using arrow keys, shoot with RCTRL.
+  
+  Survivor Mode:
+
+    Ship Commander: Control movement with WASD (no shooting).
+    Shooter: Press SPACE to shoot bullets.
+  
+##Game Modes:
+    Confrontation:
+        Engage in a thrilling battle as the Yellow and Red ships face off. Use your control skills and firepower to conquer the opponent.
+
+    Survivor:
+        Test your survival and precision skills. One player navigates the ship to collect eggs, aiming to gather as many as possible without getting hit. The other player attempts to thwart the survivor's                progress by strategically shooting bullets.
 
 
-Controls:
-  1- Confrontation: For the first game-mode, the Yellow ship moves with WASD and shoots with the LCTRL respectively, whereas the Red ship moves with the arrow keys and shoots with the RCTRL.
-  
-  2- Survivor: For the second game-mode, one player commands the ship with WASD and cannot shoot. Their goal is to get as much eggs before they run out of health. The other player simply has to press SPACE to shoot bullets and hope to catch the survivor off guard before they score a bunch of points!
-  
-  
-  
-Thank you for reading this, and enjoy the game! :)
-
+Thank you for taking the time to familiarize yourself with the game's controls and modes. Enjoy the excitement and challenge that Space Confrontation has to offer!
 
 UPDATE 1.0: Fixed Bullet Mechanics
