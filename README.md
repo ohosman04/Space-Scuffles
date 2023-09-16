@@ -1,21 +1,21 @@
-##Welcome to Space Scuffles
+# Welcome to Space Scuffles
 
 Dear Players,
 
 Welcome to Space Scuffles, a captivating gaming experience developed using Pygame! I hope you find this game enjoyable and engaging. Before diving into the game, let's go over some essential controls and game modes for a seamless gaming experience.
 
-##Controls:
-  Confrontation Mode:
+## Controls:
+   Confrontation Mode:
 
      Yellow Ship: Move using WASD, shoot with LCTRL.
      Red Ship: Move using arrow keys, shoot with RCTRL.
   
-  Survivor Mode:
+   Survivor Mode:
 
     Ship Commander: Control movement with WASD (no shooting).
     Shooter: Press SPACE to shoot bullets.
   
-##Game Modes:
+## Game Modes:
     Confrontation:
         Engage in a thrilling battle as the Yellow and Red ships face off. Use your control skills and firepower to conquer the opponent.
 
